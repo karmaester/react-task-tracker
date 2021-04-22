@@ -3,20 +3,20 @@
     {
       "id": 1,
       "text": "Doctors Appointment",
-      "day": "Feb 5th at 2:30",
+      "day": "Feb 5th at 2:30pm",
       "reminder": true
-  },
-  {
+    },
+    {
       "id": 2,
-      "text": "Meeting",
-      "day": "Feb 5th at 3:30",
+      "text": "Meeting at School",
+      "day": "Feb 6th at 1:30pm",
       "reminder": true
-  },
-  {
-      "id": 3,
-      "text": "Shopping",
-      "day": "Feb 6th at 2:30",
-      "reminder": false
-  }
+    },
+    {
+      "text": "Take driving test",
+      "day": "Mar 4th at 09:00am",
+      "reminder": true,
+      "id": 3
+    }
   ]
 }
